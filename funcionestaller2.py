@@ -11,4 +11,4 @@ def add_m(du:str,dic:dict)-> list:
     print(lista)
     dic[codigo]=lista # agrega un registro con el codigo y los valores ingresados por el usuario
     return lista
-
+print("lalal")
